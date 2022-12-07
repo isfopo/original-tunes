@@ -36,9 +36,7 @@ global = {
     \repeat volta 2 {
       \A
     }
-    \repeat volta 2 {
-      \B
-    }
+    \B
   }
 
   \layout {
