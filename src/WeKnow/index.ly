@@ -11,6 +11,7 @@
 
 \paper {
   top-margin = 15
+  system-system-spacing = #'((basic-distance . 1) (padding . 12))
 
   #(define fonts
     (set-global-fonts
@@ -31,6 +32,7 @@ global = {
 
 \score {
   {
+    \global
     \repeat volta 2 {
       \A
     }
@@ -44,6 +46,7 @@ global = {
     \context {
       \Score
       proportionalNotationDuration = #(ly:make-moment 1/12)
+
     }
   }
   \midi {}
