@@ -4,6 +4,7 @@
 
 harmony = \new ChordNames {
   \set chordChanges = ##t \chordmode {
+    \bar ".|:" 
     g1:m | c:7 | bf:maj | gs2:m cs:7 | \break
     g1:m | c:7 | d:m    | d:m        | \break
   }
