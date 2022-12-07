@@ -1,2 +1,0 @@
-build:
-  lilypond -o ../../charts/WeKnow index.ly

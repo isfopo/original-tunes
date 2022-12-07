@@ -1,0 +1,3 @@
+global = {
+  \key bf \major
+}
