@@ -7,6 +7,7 @@
 \header {
   title = "We Know"
   composer =  "Isaac Poole"
+  tagline = \markup "copyright Isaac Poole 2019"
 }
 
 \paper {
