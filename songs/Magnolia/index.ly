@@ -7,7 +7,8 @@
 \header { 
   title = "Magnolia"
   composer =  "Isaac Poole"
-  tagline = \markup "copyright Isaac Poole 2019"
+  copyright = \markup "copyright Isaac Poole 2019"
+  tagline = ""
 }
 
 \paper {
