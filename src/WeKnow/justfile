@@ -1,2 +1,2 @@
 build:
-  lilypond -o ../../charts index.ly
+  lilypond -o ../../charts/WeKnow index.ly
