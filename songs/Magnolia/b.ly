@@ -13,7 +13,7 @@ harmony = \new ChordNames {
 }
 
 melody = \new Voice = "melody" { 
-  \global 
+  \global
   \relative c' {
     d8 f4.~ f4 d | af'2. bf4 | g4. f8~ f4. ef16 c~ | c1 | 
     d8 f4.~ f4 d | af'2. bf4 | f1~                 | f1 | 
